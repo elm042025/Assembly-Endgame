@@ -1,11 +1,13 @@
 {
-  "name": "Scrim-s06j1nr",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~06jd",
+  "name": "assembly-endgame",
+  "homepage": "https://github.com/elm042025/Assembly-Endgame",
   "scripts": {
     "start": "vite",
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "clsx": "2.1.1",
