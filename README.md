@@ -6,6 +6,10 @@ Each wrong guess eliminates a language (HTML, CSS, JS... until only Assembly rem
 
 ---
 
+![Assembly-Endgame_Screenshot](./screenshot.png)
+
+---
+
 ## 🚀 Features
 
 ✅ Random word selection from a list of 400+ words  
